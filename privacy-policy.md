@@ -1,6 +1,6 @@
-# Florida Discord Bot - Privacy Policy
+# Flash Discord Bot - Privacy Policy
 
-This document outlines the privacy policy for the Discord bot ("Florida") and its associated services provided by the developer.
+This document outlines the privacy policy for the Discord bot ("Flash") and its associated services provided by the developer.
 
 ## Information Collected
 
